@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CourseNuNeoi</string>
+    <string name="calculate">Calculate</string>
+    <string name="settings">Setting</string>
+    <string name="welcome">Welcome to Clipzy</string>
+    <string name="infomation">Clip anything from over</string>
+    <string name="infomation2">100,000 hot topics</string>
+    <string name="start">Get started</string>
+    <string name="skip">Skip</string>
+    <string name="credit">By Continuing, you accept Term of Use and Privacy Policy</string>
+    <string name="button">Button</string>
+</resources>
